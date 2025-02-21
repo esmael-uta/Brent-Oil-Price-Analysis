@@ -1,1 +1,2 @@
 # Brent-Oil-Price-Analysis
+I am tasked with analyzing how significant events—such as political decisions, conflicts in oil-producing regions, global economic sanctions, and OPEC policy changes—impact Brent oil prices. The goal is to provide actionable insights for investors, analysts, and policymakers using historical Brent oil price data from May 20, 1987, to September 30, 2022.
